@@ -4,4 +4,3 @@ streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 Bleuberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
 streamlit.text('Hard-Boild Free-Range Egg')
-
